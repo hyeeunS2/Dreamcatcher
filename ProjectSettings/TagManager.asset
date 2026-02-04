@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - EnemyObject
+  - heart_UI
+  - cantattack
+  - key
+  - lock
+  - crate
+  - heart
+  - jumpenemy
+  - treasure
+  - banana
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - PlayerDameged
+  - EnemyObject
+  - item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
